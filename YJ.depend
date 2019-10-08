@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570545376 source:c:\users\iskandar\downloads\yj\main.cpp
+	<iostream>
+	"person.h"
+	<string>
+
+1570545366 c:\users\iskandar\downloads\yj\person.h
+	<string>
+
+1570545366 source:c:\users\iskandar\downloads\yj\person.h
+	<string>
+
+1570545637 source:c:\users\iskandar\downloads\yj\person.cpp
+	<iostream>
+	"person.h"
+	<string>
+
